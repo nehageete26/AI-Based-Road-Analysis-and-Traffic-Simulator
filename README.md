@@ -63,3 +63,9 @@ The model weights are not included in this repository by default because model f
 5. Compare the original image with the processed output.
 6. Review the result summary and processing time.
 7. Click Save Output to save the processed image.
+
+
+## Acknowledgements
+- OpenCV for computer vision and image-processing functions.
+- Ultralytics for the YOLO object-detection framework and pretrained model.
+- Python and Tkinter for the desktop application.
